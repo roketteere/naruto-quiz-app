@@ -22,13 +22,18 @@ var quiz = fetch("./assets/question-answer-bank.json").then((response) =>
 //
 console.log("Test");
 
-console.log('Test');
-
+console.log("Test");
 
 // Save the
 
 // Grab all of our elements
 var quizContainer = document.querySelector(".quiz");
+var main = document.querySelector("main");
+var start = document.querySelector("#start");
+
+// add event listener to start button so we can go fullscreen
+// for testing purposes only
+start.addEventListener("click", document.body.requestFullscreen);
 
 // Call our hideQuiz function to hide the quiz on load
 hideQuiz(quizContainer);
