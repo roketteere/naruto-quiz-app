@@ -1,37 +1,36 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap" rel="stylesheet"> 
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap"
+      rel="stylesheet"
+    />
     <title>Naruto Quiz - Reference Page</title>
-</head>
-<body>
+  </head>
+  <body>
     <header>
-        <h1 id="title">Naruto Quiz</h1>
+      <h1 id="title">Naruto Quiz</h1>
     </header>
     <main>
-        <!-- create a button with the id start, so that I can start a timer and display the quiz -->
-        <button id="start">Start Quiz</button>
-        <!-- create a div with the id quiz, so that I can display the quiz -->
-        
-        <div class="quiz">
-            <span id="question">
-                <button class="answer">
-                </button>
-                <button class="answer">
-                </button>
-                <button class="answer">
-                </button>
-                <button class="answer">
-                </button></span>
-        </div>
+      <!-- start button for our quiz/timer -->
+      <button id="start">Start Quiz</button>
+      <!-- create a div container to hold the quiz questions and multiple choice answers - This is hidden on load via JS -->
+      <div class="quiz">
+        <span id="question">
+          <button class="answer"></button>
+          <button class="answer"></button>
+          <button class="answer"></button>
+          <button class="answer"></button
+        ></span>
+      </div>
     </main>
     <footer>Naruto Quiz Web App - By Joel Perez</footer>
     <script src="./script.js"></script>
-</body>
+  </body>
 </html>

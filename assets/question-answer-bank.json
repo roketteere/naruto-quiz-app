@@ -1,0 +1,364 @@
+{
+  "quiz": [
+    {
+      "question": "Who is the main protagonist of the Naruto series?",
+      "answers": ["Sasuke", "Naruto", "Kakashi", "Sakura"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the name of Naruto's father?",
+      "answers": ["Jiraiya", "Minato", "Orochimaru", "Hiruzen"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the name of Naruto's mother?",
+      "answers": ["Kushina", "Mikoto", "Tsunade", "Inoichi"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What is the name of the Nine-Tailed Fox that attacked Konoha?",
+      "answers": ["Kurama", "Isobu", "Matatabi", "Gyuki"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What is the name of Naruto's signature technique?",
+      "answers": [
+        "Rasengan",
+        "Chidori",
+        "Fireball Jutsu",
+        "Shadow Clone Jutsu"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What is the name of the Hidden Village where Naruto lives?",
+      "answers": ["Sunagakure", "Konohagakure", "Kirigakure", "Iwagakure"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Who is the first Hokage of Konoha?",
+      "answers": [
+        "Tobirama Senju",
+        "Hashirama Senju",
+        "Hiruzen Sarutobi",
+        "Danzo Shimura"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Who is the second Hokage of Konoha?",
+      "answers": [
+        "Tobirama Senju",
+        "Hashirama Senju",
+        "Hiruzen Sarutobi",
+        "Danzo Shimura"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Who is the third Hokage of Konoha?",
+      "answers": [
+        "Tobirama Senju",
+        "Hashirama Senju",
+        "Hiruzen Sarutobi",
+        "Danzo Shimura"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Who is the current Hokage of Konoha?",
+      "answers": [
+        "Kakashi Hatake",
+        "Tsunade Senju",
+        "Naruto Uzumaki",
+        "Shikamaru Nara"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Who is the strongest member of the Akatsuki?",
+      "answers": ["Itachi Uchiha", "Pain", "Kisame Hoshigaki", "Sasori"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Who is the leader of the Akatsuki?",
+      "answers": ["Itachi Uchiha", "Pain", "Kisame Hoshigaki", "Madara Uchiha"],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Who is the youngest member of the Rookie Nine?",
+      "answers": [
+        "Naruto Uzumaki",
+        "Sakura Haruno",
+        "Sasuke Uchiha",
+        "Hinata Hyuga"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Who is the teacher of the Rookie Nine?",
+      "answers": [
+        "Orochimaru",
+        "Kakashi Hatake",
+        "Hiruzen Sarutobi",
+        "Jiraiya"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the name of the organization that Orochimaru founded?",
+      "answers": ["Root", "Akatsuki", "Sound Four", "Sannin"],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Who is the strongest member of the Sannin?",
+      "answers": ["Orochimaru", "Jiraiya", "Tsunade Senju", "Kabuto Yakushi"],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Who is the legendary ninja known as the \"Copy Ninja\"?",
+      "answers": ["Itachi Uchiha", "Pain", "Kakashi Hatake", "Madara Uchiha"],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is the name of Naruto's rival?",
+      "answers": ["Sasuke Uchiha", "Gaara", "Neji Hyuga", "Shikamaru Nara"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Who is the leader of the Sound Four?",
+      "answers": ["Orochimaru", "Kabuto Yakushi", "Kimim", "Sakon and Ukon"],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is the name of the group that Gaara leads?",
+      "answers": ["Akatsuki", "Sound Four", "Suna Council", "Sand Siblings"],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Who is the strongest member of the Sound Four?",
+      "answers": ["Kimimaro", "Jirobo", "Kidomaru", "Tayuya"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What is the name of the curse mark that Orochimaru uses?",
+      "answers": [
+        "Sharingan",
+        "Mangekyo Sharingan",
+        "Cursed Seal of Heaven",
+        "Cursed Seal of Earth"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Who is the former member of the Akatsuki who becomes the leader of the Hidden Rain Village?",
+      "answers": ["Nagato Uzumaki", "Yahiko", "Konan", "Hanzo"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Who is the first member of the Rookie Nine to become a Chunin?",
+      "answers": [
+        "Naruto Uzumaki",
+        "Sakura Haruno",
+        "Sasuke Uchiha",
+        "Shikamaru Nara"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "What is the name of the ninja clan that Sasuke belongs to?",
+      "answers": ["Uchiha", "Hyuga", "Nara", "Aburame"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Who is the leader of the Uchiha clan?",
+      "answers": [
+        "Sasuke Uchiha",
+        "Fugaku Uchiha",
+        "Itachi Uchiha",
+        "Mikoto Uchiha"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the name of the Uchiha clan's kekkei genkai?",
+      "answers": ["Sharingan", "Byakugan", "Rinnegan", "Mangekyo Sharingan"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Who is the member of the Uchiha clan who massacres the entire clan?",
+      "answers": [
+        "Sasuke Uchiha",
+        "Itachi Uchiha",
+        "Fugaku Uchiha",
+        "Mikoto Uchiha"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the name of the organization that Itachi works for?",
+      "answers": ["Akatsuki", "Anbu", "Root", "Leaf Police"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Who is the member of the Uchiha clan who helps Naruto during the Fourth Great Ninja War?",
+      "answers": [
+        "Itachi Uchiha",
+        "Shisui Uchiha",
+        "Obito Uchiha",
+        "Madara Uchiha"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Who is the jinchuriki of the Two-Tailed Monster Cat?",
+      "answers": ["Yugito Nii", "Gaara", "Killer Bee", "Han"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What is the name of the group that Killer Bee belongs to?",
+      "answers": [
+        "Akatsuki",
+        "Seven Swordsmen of the Mist",
+        "Kumogakure",
+        "Jinchuriki Alliance"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Who is the leader of the Seven Swordsmen of the Mist?",
+      "answers": [
+        "Zabuza Momochi",
+        "Kisame Hoshigaki",
+        "Mangetsu Hozuki",
+        "Chojuro"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Who is the member of the Seven Swordsmen of the Mist who wields the Samehada sword?",
+      "answers": [
+        "Zabuza Momochi",
+        "Kisame Hoshigaki",
+        "Mangetsu Hozuki",
+        "Chojuro"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the name of the group that Madara Uchiha leads?",
+      "answers": [
+        "Akatsuki",
+        "Uchiha Clan",
+        "Tobi and the White Zetsu Army",
+        "Uchiha Restoration Army"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Who is the jinchuriki of the One-Tailed Shukaku?",
+      "answers": ["Naruto Uzumaki", "Gaara", "Killer Bee", "Yugito Nii"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Who is the leader of the White Zetsu Army?",
+      "answers": [
+        "Madara Uchiha",
+        "Obito Uchiha",
+        "Kaguya Otsutsuki",
+        "Black Zetsu"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "What is the name of the ninja who creates the Edo Tensei jutsu?",
+      "answers": [
+        "Orochimaru",
+        "Tobirama Senju",
+        "Hiruzen Sarutobi",
+        "Danzo Shimura"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Who is the first Hokage's younger brother?",
+      "answers": [
+        "Hashirama Senju",
+        "Tobirama Senju",
+        "Kawarama Senju",
+        "Itama Senju"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Who is the second Hokage's younger brother?",
+      "answers": [
+        "Hashirama Senju",
+        "Tobirama Senju",
+        "Kawarama Senju",
+        "Itama Senju"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Who is the member of the Akatsuki who uses puppets as his primary fighting style?",
+      "answers": ["Sasori", "Deidara", "Hidan", "Kakuzu"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Who is the first jinchuriki of the Eight-Tailed Ox?",
+      "answers": ["Killer Bee", "Yugito Nii", "Han", "Fū"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What is the name of the ninja who becomes Tsunade's assistant?",
+      "answers": ["Shizune", "Ayame", "Mei Terumi", "Kurenai Yuhi"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What is the name of the ninja who is known as the \"Goddess of Healing\"?",
+      "answers": [
+        "Tsunade Senju",
+        "Sakura Haruno",
+        "Ino Yamanaka",
+        "Rin Nohara"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Who is the member of the Akatsuki who has the ability to absorb chakra?",
+      "answers": ["Nagato Uzumaki", "Konan", "Hidan", "Kakuzu"],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Who is the first Hokage's granddaughter?",
+      "answers": [
+        "Tsunade Senju",
+        "Mei Terumi",
+        "Kurenai Yuhi",
+        "Mito Uzumaki"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What is the name of the organization that Danzo Shimura leads?",
+      "answers": ["Anbu", "Root", "Akatsuki", "Leaf Police"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the name of the ninja who becomes the Fifth Kazekage?",
+      "answers": ["Gaara", "Temari", "Kankuro", "Baki"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Who is the member of the Akatsuki who has the ability to control paper?",
+      "answers": ["Konan", "Pain", "Itachi Uchiha", "Kisame Hoshigaki"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What is the name of the ninja who becomes the Fifth Mizukage?",
+      "answers": ["Mei Terumi", "Chojuro", "Ao", "Yagura"],
+      "correctAnswer": 0
+    }
+  ]
+}
