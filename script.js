@@ -12,20 +12,25 @@ var isSaved = "nqa-saved";
 var quiz = fetch("./assets/question-answer-bank.json").then((response) =>
   response
     .json()
-    .then((data) => console.log("Data Retrieved" + JSON.stringify(data))) //the function to store in local storage goes here instead of the console.log
+    .then((data) => {
+      // convert the .json file into strings
+      var stringData = JSON.stringify(data);
+      // save our stringed data into localStorage
+      localStorage.setItem("naruto-quiz", stringData);
+      // convert/parse from string to json object
+      var parseData = JSON.parse(localStorage.getItem("naruto-quiz"));
+      // log and test our data was properly converted
+      console.log(parseData);
+      alert(
+        "Naruto Quiz Questions & Answers have been requested, converted, saved, and retrieved"
+      );
+    }) //the function to store in local storage goes here instead of the console.log
     .catch((error) => {
       if (error) {
         alert("Error Loading Quiz Dataset!\n" + error);
       }
     })
 );
-//
-console.log("Test");
-
-console.log("Test");
-
-// Save the
-
 // Grab all of our elements
 var quizContainer = document.querySelector(".quiz");
 var main = document.querySelector("main");
