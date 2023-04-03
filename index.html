@@ -20,13 +20,20 @@
     <main>
       <!-- start button for our quiz/timer -->
       <button id="start">Start Quiz</button>
+      <button id="hide">Hide Quiz</button>
       <!-- create a div container to hold the quiz questions and multiple choice answers - This is hidden on load via JS -->
       <div class="quiz">
-        <span id="question">
-          <button class="answer"></button>
-          <button class="answer"></button>
-          <button class="answer"></button>
-          <button class="answer"></button
+        <span id="info">
+          <h2 id="timer">360</h2>
+          <h2 id="right">0</h2>
+          <h2 id="wrong">0</h2>
+        </span>
+        <span class="question-container">
+          <h2 id="question-head">Question</h2>
+          <button id="a1" class="answer"></button>
+          <button id="a2" class="answer"></button>
+          <button id="a3" class="answer"></button>
+          <button id="a4" class="answer"></button
         ></span>
       </div>
     </main>
